@@ -3,12 +3,12 @@ entries:
   iperf3-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-06-23T22:10:49.416684841-07:00"
+    created: "2025-06-23T22:59:59.1290626-07:00"
     description: A Helm chart for Kubernetes
-    digest: d3b92217087e0ecec17f79e377e92c5cdc60174aa2904ba2e1a57d2861fbeb30
+    digest: 4db25a8bea837ebe5f3b17907a380472ab4622dcaf1d966ac6c8ebd04d194480
     name: iperf3-chart
     type: application
     urls:
-    - https://github.com/avinashsavaliya/vmware-scripts.git/iperf3-chart-0.1.0.tgz
+    - https://avinashsavaliya.github.io/iperf3-helm-repo/iperf3-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-06-23T22:10:49.416253578-07:00"
+generated: "2025-06-23T22:59:59.128688602-07:00"
